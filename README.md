@@ -38,6 +38,12 @@ Medical Image Analysis | 2024
 Frontiers in Artificial Intelligence | 2024
 [![GitHub stars](https://img.shields.io/github/stars/Fledermaus12/LVOstroke-DL.svg?logo=github&label=Stars)](https://github.com/Fledermaus12/LVOstroke-DL)
 
+**Hematoma expansion prediction in intracerebral hemorrhage patients by using synthesized CT images in an end-to-end deep learning framework**
+*Cansu Yalcin, Valeriia Abramova, et al*
+Computerized Medical Imaging and Graphics | 2024
+[![GitHub stars](https://img.shields.io/github/stars/NIC-VICOROB/HE-prediction-SynthCT.svg?logo=github&label=Stars)](https://github.com/NIC-VICOROB/HE-prediction-SynthCT)
+
+
 ## Project
 
 ## Data
