@@ -22,6 +22,9 @@ NeuroImage | 2024
 *Ping Hu, Haizhu Zhou, et al*
 [![GitHub stars](https://img.shields.io/github/stars/BrainHemo/BrainHemoAI.svg?logo=github&label=Stars)](https://github.com/BrainHemo/BrainHemoAI)
 
+**CarveMix: A simple data augmentation method for brain lesion segmentation**
+*Xinru Zhang, Chenghao Liu, et al*
+[![GitHub stars](https://img.shields.io/github/stars/ZhangxinruBIT/CarveMix.svg?logo=github&label=Stars)](https://github.com/ZhangxinruBIT/CarveMix)
 
 ## Project
 
