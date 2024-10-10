@@ -16,4 +16,7 @@ NeuroImage: Clinical | 2024
 ## Project
 
 ## Data
-
+**The stroke outcome optimization project: Acute ischemic strokes from a comprehensive stroke center**
+*John Absher, Sarah Goncher, et al*
+Scientific Data | 2024
+[![GitHub stars](https://img.shields.io/github/stars/neurolabusc/StrokeOutcomeOptimizationProjectDemo.svg?logo=github&label=Stars)](https://github.com/neurolabusc/StrokeOutcomeOptimizationProjectDemo)
