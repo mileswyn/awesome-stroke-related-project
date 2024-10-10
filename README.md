@@ -55,3 +55,7 @@ NeuroImage | 2023
 *MakaylaGibson, Roger Newman-Norlund, et al*
 Scientific Data | 2024
 [![GitHub stars](https://img.shields.io/github/stars/neurolabusc/AphasiaRecoveryCohortDemo.svg?logo=github&label=Stars)](https://github.com/neurolabusc/AphasiaRecoveryCohortDemo)
+
+**ISLES 2024: The first longitudinal multimodal multi-center real-world dataset in (sub-)acute stroke**
+*Evamaria. O. Riedel, Ezequiel de la Rosa, et al*
+arxiv | 2024
