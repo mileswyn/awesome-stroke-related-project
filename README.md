@@ -20,10 +20,12 @@ NeuroImage | 2024
 
 **Deep learning-assisted identification and quantification of aneurysmal subarachnoid hemorrhage in non-contrast CT scans: Development and external validation of Hybrid 2D/3D UNet**
 *Ping Hu, Haizhu Zhou, et al*
+NeuroImage | 2023
 [![GitHub stars](https://img.shields.io/github/stars/BrainHemo/BrainHemoAI.svg?logo=github&label=Stars)](https://github.com/BrainHemo/BrainHemoAI)
 
 **CarveMix: A simple data augmentation method for brain lesion segmentation**
 *Xinru Zhang, Chenghao Liu, et al*
+NeuroImage | 2023
 [![GitHub stars](https://img.shields.io/github/stars/ZhangxinruBIT/CarveMix.svg?logo=github&label=Stars)](https://github.com/ZhangxinruBIT/CarveMix)
 
 ## Project
