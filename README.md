@@ -33,6 +33,10 @@ NeuroImage | 2023
 Medical Image Analysis | 2024
 [![GitHub stars](https://img.shields.io/github/stars/JiaRuiS/MGCL.svg?logo=github&label=Stars)](https://github.com/JiaRuiS/MGCL)
 
+**Deep learning for prediction of post-thrombectomy outcomes based on admission CT angiography in large vessel occlusion stroke**
+*Jakob Sommer, Fiona Dierksen, et al*
+Frontiers in Artificial Intelligence | 2024
+[![GitHub stars](https://img.shields.io/github/stars/Fledermaus12/LVOstroke-DL.svg?logo=github&label=Stars)](https://github.com/Fledermaus12/LVOstroke-DL)
 
 ## Project
 
