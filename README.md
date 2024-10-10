@@ -13,6 +13,11 @@ Insights into Imaging | 2022
 NeuroImage: Clinical | 2024
 [![GitHub stars](https://img.shields.io/github/stars/ClearExplanationsAI/CLEAR-MRI.svg?logo=github&label=Stars)](https://github.com/ClearExplanationsAI/CLEAR-MRI)
 
+**Perfusion parameter map generation from TOF-MRA in stroke using generative adversarial networks**
+*Felix Lohrke, Vince Istvan Madai, et al*
+NeuroImage | 2024
+[![GitHub stars](https://img.shields.io/github/stars/claim-berlin/TOF-to-Perfusion-GAN.svg?logo=github&label=Stars)](https://github.com/claim-berlin/TOF-to-Perfusion-GAN)
+
 ## Project
 
 ## Data
