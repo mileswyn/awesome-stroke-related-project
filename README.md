@@ -28,6 +28,12 @@ NeuroImage | 2023
 NeuroImage | 2023
 [![GitHub stars](https://img.shields.io/github/stars/ZhangxinruBIT/CarveMix.svg?logo=github&label=Stars)](https://github.com/ZhangxinruBIT/CarveMix)
 
+**Multi-grained contrastive representation learning for label-efficient lesion segmentation and onset time classification of acute ischemic stroke**
+*Jiarui Sun, Yuhao Liu, et al*
+Medical Image Analysis | 2024
+[![GitHub stars](https://img.shields.io/github/stars/JiaRuiS/MGCL.svg?logo=github&label=Stars)](https://github.com/JiaRuiS/MGCL)
+
+
 ## Project
 
 ## Data
