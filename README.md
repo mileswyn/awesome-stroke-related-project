@@ -1,6 +1,6 @@
 # awesome-stroke-related-project
 
-- 💕 We provide a list of paper and projects in stroke.
+- 💕 We provide a list of paper and projects in stroke research.
 - 🔥 Welcome to share the paper and code through the [issues]([https://github.com/mileswyn/awesome-stroke-related-project/issues]).
 
 ## Paper
