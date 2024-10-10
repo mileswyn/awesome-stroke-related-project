@@ -18,6 +18,11 @@ NeuroImage: Clinical | 2024
 NeuroImage | 2024
 [![GitHub stars](https://img.shields.io/github/stars/claim-berlin/TOF-to-Perfusion-GAN.svg?logo=github&label=Stars)](https://github.com/claim-berlin/TOF-to-Perfusion-GAN)
 
+**Deep learning-assisted identification and quantification of aneurysmal subarachnoid hemorrhage in non-contrast CT scans: Development and external validation of Hybrid 2D/3D UNet**
+*Ping Hu, Haizhu Zhou, et al*
+[![GitHub stars](https://img.shields.io/github/stars/BrainHemo/BrainHemoAI.svg?logo=github&label=Stars)](https://github.com/BrainHemo/BrainHemoAI)
+
+
 ## Project
 
 ## Data
