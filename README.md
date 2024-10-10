@@ -25,3 +25,9 @@ NeuroImage | 2024
 *John Absher, Sarah Goncher, et al*
 Scientific Data | 2024
 [![GitHub stars](https://img.shields.io/github/stars/neurolabusc/StrokeOutcomeOptimizationProjectDemo.svg?logo=github&label=Stars)](https://github.com/neurolabusc/StrokeOutcomeOptimizationProjectDemo)
+
+**Benchmark dataset for clot detection in ischemic stroke vessel-based imaging: CODEC-IV**
+*Freda Werdiger, Milanka Visser*
+NeuroImage | 2023
+[![GitHub stars](https://img.shields.io/github/stars/MBC-Neuroimaging/ClotDetectEval.svg?logo=github&label=Stars)](https://github.com/MBC-Neuroimaging/ClotDetectEval) 
+
